@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/UndreStoker/Links/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### My Faves
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As I mentioned, I am a huge sports junkie and most of my time is spent watching the teams or players that I love. 
+Being from Texas, of course I am a fan of America's Greatest Football team the Dallas Cowboys. 
+You too can join in on the action by visiting their [official website](https://www.dallascowboys.com) to catch the next game!  
 
-### Markdown
+If you saw my above photos and want to see more of what my agency does, I encourage you to check out the AFOSI official [Twitter](https://twitter.com/RealAFOSI).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UndreStoker/Links/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Lastly, I want to share one of my favorite YouTube creators who has published tons of content on Computer Programming. His page has helped me out tremendously with not only the classes at Southwestern but also my own personal goals of one day becoming a Software Developer. Check him out! [Alex Lee Youtube](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
