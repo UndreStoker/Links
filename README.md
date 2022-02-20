@@ -1,23 +1,26 @@
-[comment]: # (Undre Stoker, CSCI 434, 31 Oct 2021, Links Page) 
+[comment]: # (Undre Stoker, CSCI 497, 20 Feb 2022, LPG Website) 
 
-# My Favorite Links
+[Home](https://undrestoker.github.io/LPG-Systems/) &nbsp;   [Cardiology](https://undrestoker.github.io/Cardiology/) &nbsp;   [Oncology](https://undrestoker.github.io/Oncology/) &nbsp;   [Wellness](https://undrestoker.github.io/Wellness/) &nbsp;   [Chiropractic](https://undrestoker.github.io/Chiropractic/) &nbsp;   [Emergency](https://undrestoker.github.io/Emergency/) &nbsp;  [Contact](https://undrestoker.github.io/Contact/)
 
-[Khan Academy](https://www.khanacademy.org/)
+<h1 align="center"> Wellness </h1>
 
-[The Crazy Programmer ](https://www.thecrazyprogrammer.com/)
+![istockphoto-1341490004-612x612](https://user-images.githubusercontent.com/91627769/154853042-f8dee8b7-15c7-4d56-a159-5f95672f937a.jpeg)
 
-[Coinmarketcap](https://coinmarketcap.com/)
+Good nutrition is critical in maintaining good health, and the quality of your diet has a lot to do with your quality of life. But there’s so much conflicting advice out there that many people are unsure of what constitutes a truly healthful diet. If you need help with food selection because of a health issue such as diabetes, you have an even greater need for solid, factual information. Our dietician is here to help.
 
-[W3Schools](https://www.w3schools.com/)
+Our registered and licensed dietician can help you improve your nutrition or address any nutritional concerns you may have.
 
-[Coding Horror](https://blog.codinghorror.com/)
+#### LPG also offers nutrition services related to:
 
-[CSS-Tricks](https://css-tricks.com/)
-
-[The Daily WTF](http://thedailywtf.com/)
-
-[Dallas Cowboys Home page ](https://www.dallascowboys.com)
-
-[AFOSI Twitter ](https://twitter.com/RealAFOSI?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-
-[Alex Lee YouTube ](https://www.youtube.com/channel/UC_fFL5jgoCOrwAVoM_fBYwA)
+* Celiac disease
+Diabetes management
+Family nutrition
+Food allergies and intolerances
+GI issues
+Geriatric nutrition
+Heart disease
+Kidney disease management
+Nutrition during cancer care
+Prenatal and pediatric nutrition
+Sports performance improvement
+Weight management
